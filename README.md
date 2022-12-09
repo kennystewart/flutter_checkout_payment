@@ -1,11 +1,9 @@
 # Flutter Checkout Payment  
 
-[![pub.dev](https://img.shields.io/pub/v/flutter_checkout_payment.svg)](https://pub.dev/packages/flutter_checkout_payment)  [![Donate Paypal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/ShadyBoshra2012) [![GitHub Follow](https://img.shields.io/github/followers/ShadyBoshra2012.svg?style=social&label=Follow)](https://github.com/ShadyBoshra2012)
-
 
 ## Explain
 
-This plugin is for [Checkout](https://checkout.com) online payment. It's implemented the native SDKs to work on Flutter environment.
+This plugin is for Checkout online payment. It's implemented the native SDKs to work on Flutter environment.
 
 ![](https://logos-download.com/wp-content/uploads/2019/07/Checkout.com_Logo.png)
 
@@ -109,47 +107,3 @@ class CardTokenisationResponse {
   final String? name;
 }
 ```
-
-
-## Contributors (Thanks for your GREAT work ❤️)
-
-[edwardmp](https://github.com/edwardmp): Added Feature Handling 3D Secure.
-
-
-## Links
-
-Checkout Android SDK: https://github.com/checkout/frames-android
-
-Checkout iOS SDK: https://github.com/checkout/frames-ios
-
-This plugin is mainly developed for [GRANDTK](https://grandtk.com/) company.
-
-
-## Find me on Stackoverflow
-
-<a href="https://stackoverflow.com/users/2076880/shady-boshra"><img src="https://stackoverflow.com/users/flair/2076880.png" width="208" height="58" alt="profile for Shady Boshra at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Shady Boshra at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-
-
-## License
-
-MIT: [https://mit-license.org](https://mit-license.org). 
-
-Copyright (c) 2021 Shady Boshra. All rights reserved.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.

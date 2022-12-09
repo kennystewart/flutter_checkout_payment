@@ -5,8 +5,6 @@
 
 This plugin is for Checkout online payment. It's implemented the native SDKs to work on Flutter environment.
 
-![](https://logos-download.com/wp-content/uploads/2019/07/Checkout.com_Logo.png)
-
 ## Getting Started
 
 Add this to your package's `pubspec.yaml` file:
